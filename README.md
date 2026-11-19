@@ -65,9 +65,8 @@ App turística con realidad aumentada para visitar Dolores Hidalgo, construida c
 
 
 ## 8.Resultado de las pantallas
+### Explorar con GPS real
+<img src="assets/modo_demo.jpeg" alt="Explorar con gps real" width="250" />
 
-Explorar con GPS real
-![Explorar con gps real](assets/modo_demo.png)
-
-Modo demo
-![Moodo demo](assets/GPS_real.png)
+### Modo demo
+<img src="assets/GPS_real.jpeg" alt="Modo demo" width="250" />
